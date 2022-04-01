@@ -24,7 +24,6 @@ $valores_dependencias = "";
                     <div>Métricas sobre la contratación - Super Usuario - Control Interno
                         <div class="page-title-subheading">Aquí tienes información relevante sobre los contratos de la alcaldía municipal
                             <br>
-
                         </div>
                     </div>
                 </div>
@@ -36,11 +35,11 @@ $valores_dependencias = "";
                     <h4>Consulta por Vigencias:</h4>
                 </div>
                 <div>
-                <a href="http://google.com" class="btn btn-primary btn-lg mx-5" role="button">2022</a>
+                <a href="contenedor_gestionar_contratos2022.php" class="btn btn-outline-primary btn-lg mx-5" role="button">2022</a>
                     
                 </div>
                 <div>
-                <a href="http://google.com" class="btn btn-warning byn-lg" role="button">2021</a>
+                <a href="contenedor_gestionar_contratos2021.php" class="btn btn-outline-danger btn-lg" role="button">2021</a>
                 </div>
             </div>
         </div>
